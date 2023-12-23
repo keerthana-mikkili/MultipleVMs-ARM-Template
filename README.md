@@ -1,7 +1,7 @@
 # Azure ARM Template - Multiple Virtual Machines Deployment
 
 ## Overview
-This Azure Resource Manager (ARM) template facilitates the deployment of multiple virtual machines (VMs) in Azure. It automates the provisioning of virtual machines, associated storage accounts, a virtual network, and network interfaces. The template is designed for flexibility, allowing you to customize various parameters based on your specific requirements.
+This Azure Resource Manager (ARM) template facilitates the deployment of multiple virtual machines (VMs) in Azure. It automates the provisioning of virtual machines, associated storage accounts, a virtual network, and network interfaces. The template is designed for flexibility, allowing you to customize various parameters based on your specific requirements and deploys several VMs simultaneously.
 
 ## Pre-requisites
 Ensure you have the following prerequisites before deploying the ARM template:
